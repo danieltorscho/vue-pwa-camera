@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <Camera msg="Vue PWA Camera"/>
+    <Camera />
   </div>
 </template>
 
