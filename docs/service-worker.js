@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.18a7930f8f82ec2534033c8217b8a7ce.js"
+  "/precache-manifest.dbb9835aafdbb972d3aa4de011477e20.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-pwa-camera"});
