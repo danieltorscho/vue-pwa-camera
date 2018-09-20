@@ -16,3 +16,5 @@ yarn run serve
 ```
 yarn run build
 ```
+
+Used https://www.npmjs.com/package/vue-gh-pages for deployment to GitHub Pages
