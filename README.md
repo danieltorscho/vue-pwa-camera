@@ -1,4 +1,6 @@
-# vue-pwa-camera
+# Vue.js PWA Camera stream
+
+[DEMO Vue PWA Camera](https://danieltorscho.github.io/vue-pwa-camera/)
 
 ## Project setup
 ```
